@@ -5,6 +5,9 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@plasmicapp/cli": "^0.1.186",
+    "@plasmicapp/host": "^1.0.75",
+    "@plasmicapp/react-web": "^0.2.105",
     "gatsby": "^4.20.0",
     "gatsby-plugin-image": "^2.20.0",
     "gatsby-plugin-manifest": "^4.20.0",
