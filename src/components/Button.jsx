@@ -1,5 +1,5 @@
 import * as React from "react"
-import { PlasmicButton } from "./plasmic/landing_page_starter/PlasmicButton"
+import { PlasmicButton } from "./plasmic/dark_saa_s_landing_page/PlasmicButton"
 
 function Button_(props, ref) {
   const { plasmicProps } = PlasmicButton.useBehavior(props, ref)

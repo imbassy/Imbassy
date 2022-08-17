@@ -2,7 +2,12 @@
 // This file is owned by you, feel free to edit as you see fit.
 import * as React from "react"
 import * as ph from "@plasmicapp/host"
-import { PlasmicHomepage } from "../components/plasmic/landing_page_starter/PlasmicHomepage"
+import {
+  PlasmicHomepage,
+  Head,
+} from "../components/plasmic/dark_saa_s_landing_page/PlasmicHomepage"
+
+export { Head }
 
 function Homepage({ location, params }) {
   // Use PlasmicHomepage to render this component as it was
